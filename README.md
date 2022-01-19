@@ -1,5 +1,7 @@
 # OPBR-Database
 
+Message: help is needed to make the spanish translation and finish the english one. Contact me on discord!
+
 One Piece Bounty Rush Excel DataBase (English) :
 - Every characters of the game and their support tags
 - All the game's medals (characters and events), their tags, their bonus and the list of the best random traits you can get from each
