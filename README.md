@@ -2,7 +2,7 @@
 
 Message: help is needed to make the spanish translation and finish the english one. Contact me on discord!
 
-One Piece Bounty Rush Excel DataBase (English) :
+**One Piece Bounty Rush Excel DataBase (English)**
 - Every characters of the game and their support tags
 - All the game's medals (characters and events), their tags, their bonus and the list of the best random traits you can get from each
 - A calculator allowing from your characters and medals list to propose you the best combinations of 3 medals for your account
@@ -11,7 +11,7 @@ One Piece Bounty Rush Excel DataBase (English) :
 - Evolution costs of all boosts
 - Translations tab to write translations of texts in other languages (english, spanish, ...) + buttons in Help to apply the translation
 
-One Piece Bounty Rush Excel DataBase (Francais) :
+**One Piece Bounty Rush Excel DataBase (Francais)**
 - Tous les personnages du jeu et leurs tags de soutien
 - Toutes les pièces du jeu (personnages et événements), leurs tags, leurs bonus et la liste des meilleurs traits aléatoire obtenables
 - Un calculateur permettant à partir de la liste de vos personnages et pièces de vous proposer les meilleurs combinaisons de 3 pièces pour votre compte
@@ -20,7 +20,7 @@ One Piece Bounty Rush Excel DataBase (Francais) :
 - Tableau de coût d'évolution de tous les Boosts
 - Onglet Translations pour saisir les traductions dans d'autres langues (anglais, espagnol, ...) ainsi que de boutons dans l'onglet Help pour appliquer la traduction
 
-Changelog
+**Changelog**
 - 2022-01-19 New characters & medals, Benchs Stats tab, calendar update
 - 2021-11-23 New characters & medals
 - 2021-11-04 New characters & medals
@@ -30,18 +30,18 @@ Changelog
 - 2021-09-29 new characters + medals + new home screen team
 - 2021-09-26 translation sheet to manage multiple languages + buttons to apply it
 
-Pour l'utiliser/To use
+**Pour l'utiliser/To use**
 - Microsoft Excel (best)
 - Libre Office
 - Microsoft Excel for Mac OSX (requires to accept files access in order to display pictures)
 
-Join us on discord here:
+**You want to chat with me? Join us on our discord!**
 https://discord.gg/NrCSFHwXrn
 
 Screenshot of medal calculator results :https://i.imgur.com/fBKdyc4.png
 
+**Wanna promote my work? Upvote my reddit post!**
 If you like my work, please join/share my discord with your friends or like/comment my reddit post (Useful links menu, then OPBR Database) :
 https://www.reddit.com/r/OPBR/
-
-Direct access to reddit post :
+Direct access to my reddit post :
 https://www.reddit.com/r/OPBR/comments/pya81d/opbr_excel_database_characters_medalscombo/
