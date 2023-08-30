@@ -24,6 +24,7 @@ Message: help is needed to make the spanish translation and finish the english o
 
 **Changelog**
 
+- 2023-08-30 New characters & medals, calendar update, solo update (a lot of things to complete regarding characters/medals details)
 - 2022-01-19 New characters & medals, Benchs Stats tab, calendar update
 - 2021-11-23 New characters & medals
 - 2021-11-04 New characters & medals
