@@ -52,4 +52,4 @@ Screenshot of medal calculator results :https://i.imgur.com/fBKdyc4.png
 
 - If you like my work, please join/share my discord with your friends or like/comment my reddit post!
 - Open the following link then open Useful links menu, then OPBR Database entry : https://www.reddit.com/r/OPBR/
-- Direct access to my reddit post : https://www.reddit.com/r/OPBR/comments/pya81d/opbr_excel_database_characters_medalscombo/
+- Direct access to my reddit post : https://www.reddit.com/r/OPBR/comments/1664axo/opbr_excel_database_characters_medalscombo/
