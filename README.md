@@ -2,6 +2,8 @@
 
 Message: help is needed to make the spanish translation and finish the english one. Contact me (Exca) on discord!
 
+Current Tiers List (2023-08-31) : https://tiermaker.com/user/16120932
+
 Google sheet to help me updating characters tags : https://docs.google.com/spreadsheets/d/19jxkkltGzxQrL2DkQHrQHGN5G34bGtEfvbW8l7F-2uo/edit#gid=1947900323
 
 **One Piece Bounty Rush Excel DataBase (English)**
