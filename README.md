@@ -2,7 +2,7 @@
 
 Message: help is needed to make the spanish translation and finish the english one. Contact me (Exca) on discord!
 
-Current Tiers List (2023-09-02) : https://tiermaker.com/user/16120932
+Current Tiers List (2023-09-04) : https://tiermaker.com/user/16120932
 
 Google sheet to help me updating characters tags : https://docs.google.com/spreadsheets/d/19jxkkltGzxQrL2DkQHrQHGN5G34bGtEfvbW8l7F-2uo/edit#gid=1947900323
 
@@ -28,6 +28,7 @@ Google sheet to help me updating characters tags : https://docs.google.com/sprea
 
 **Changelog**
 
+- 2023-09-04 Updated all medal tags and most character support tags
 - 2023-08-30 New characters & medals, calendar update, solo update (a lot of things to complete regarding characters/medals details)
 - 2022-01-19 New characters & medals, Benchs Stats tab, calendar update
 - 2021-11-23 New characters & medals
