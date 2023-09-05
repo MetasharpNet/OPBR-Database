@@ -4,7 +4,7 @@ Message: help is needed to make the spanish translation and finish the english o
 
 Current Tiers List (2023-09-04) : https://tiermaker.com/user/16120932
 
-Missing characters tags : https://cdn.discordapp.com/attachments/1098950165144023091/1148331517920165928/image.png
+Missing characters tags : Zephyr EX and Smoker STAMPEDE
 
 **One Piece Bounty Rush Excel DataBase (English)**
 
