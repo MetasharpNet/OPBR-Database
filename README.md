@@ -52,8 +52,6 @@ Current Tiers List (2023-09-05) : https://tiermaker.com/user/16120932
 
 https://discord.gg/NrCSFHwXrn
 
-Screenshot of medal calculator results :https://i.imgur.com/fBKdyc4.png
-
 **Wanna promote my work? Upvote my reddit post!**
 
 - If you like my work, please join/share my discord with your friends or like/comment my reddit post!
