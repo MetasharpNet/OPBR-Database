@@ -28,6 +28,7 @@ Missing characters tags : Zephyr EX and Smoker STAMPEDE
 
 **Changelog**
 
+- 2023-09-10 Updated all character support tags and completed some more medals, reverted bench tab axis, display medal combos pictures
 - 2023-09-04 Updated all medal tags and most character support tags
 - 2023-08-30 New characters & medals, calendar update, solo update (a lot of things to complete regarding characters/medals details)
 - 2022-01-19 New characters & medals, Benchs Stats tab, calendar update
