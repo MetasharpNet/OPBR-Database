@@ -6,6 +6,8 @@ Current Tiers List (2023-09-05) : https://tiermaker.com/user/16120932
 
 ![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/e5a16ffa-0c33-4442-954e-30656ec8d10b)
 
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/07c17e33-c281-4022-b5bd-23314e7cd828)
+
 **One Piece Bounty Rush Excel DataBase (English)**
 
 - Every characters of the game and their support tags
