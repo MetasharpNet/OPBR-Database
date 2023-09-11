@@ -45,7 +45,6 @@ Current Tiers List (2023-09-05) : https://tiermaker.com/user/16120932
 **Pour l'utiliser/To use**
 
 - Microsoft Excel (best)
-- Libre Office
 - Microsoft Excel for Mac OSX (requires to accept files access in order to display pictures)
 
 **You want to chat with me? Join us on our discord!**
