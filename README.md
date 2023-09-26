@@ -57,4 +57,4 @@ https://discord.gg/NrCSFHwXrn
 - Open the following link then open Useful links menu, then OPBR Database entry : https://www.reddit.com/r/OPBR/
 - Direct access to my reddit post : https://www.reddit.com/r/OPBR/comments/1664axo/opbr_excel_database_characters_medalscombo/
 
-https://hanadigital.github.io/grev/?user=MetasharpNet&repo=OPBR-Database
+Download stats : https://hanadigital.github.io/grev/?user=MetasharpNet&repo=OPBR-Database
