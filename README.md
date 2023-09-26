@@ -30,6 +30,7 @@ Current Tiers List (2023-09-05) : https://tiermaker.com/user/16120932
 
 **Changelog**
 
+- 2023-09-26 New characters, completed regular medals, optimized translation button speed (90s to 2s)
 - 2023-09-10 Updated all character support tags and completed some more medals, reverted bench tab axis, display medal combos pictures
 - 2023-09-04 Updated all medal tags and most character support tags
 - 2023-08-30 New characters & medals, calendar update, solo update (a lot of things to complete regarding characters/medals details)
