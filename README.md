@@ -4,7 +4,7 @@ Message: help is needed to make the spanish translation and finish the english o
 
 Current Tiers List (2023-09-26) : https://tiermaker.com/user/16120932
 
-![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/e5a16ffa-0c33-4442-954e-30656ec8d10b)
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/0ea67270-2326-4cb8-91c3-b8f1e1cf59eb)
 
 ![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/07c17e33-c281-4022-b5bd-23314e7cd828)
 
