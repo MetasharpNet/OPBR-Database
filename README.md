@@ -29,6 +29,7 @@ Current Tiers List (2023-10-01) : https://tiermaker.com/user/16120932
 - Onglet Translations pour saisir les traductions dans d'autres langues (anglais, espagnol, ...) ainsi que de boutons dans l'onglet Help pour appliquer la traduction
 
 **Changelog**
+- 2023-10-10 added hack, added guaranteed pull costs on calendar tab
 - 2023-10-02 typos fix, ex portals guaranteed pulls values on calendar
 - 2023-09-28 Medals finally 100% completed in English and French
 - 2023-09-26 New characters, completed regular medals, optimized translation button speed (90s to 2s)
