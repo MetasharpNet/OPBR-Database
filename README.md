@@ -29,6 +29,7 @@ Current Tiers List (2023-10-01) : https://tiermaker.com/user/16120932
 - Onglet Translations pour saisir les traductions dans d'autres langues (anglais, espagnol, ...) ainsi que de boutons dans l'onglet Help pour appliquer la traduction
 
 **Changelog**
+- 2023-12-16 added new characters, medals and updated calendar
 - 2023-10-26 added karasu, bety bello, new medals and updated solo
 - 2023-10-21 added inazuma, new medals and updated calendar
 - 2023-10-10 added hack, added guaranteed pull costs on calendar tab
