@@ -53,14 +53,4 @@ Current Tiers List (2023-10-01) : https://tiermaker.com/user/16120932
 - Microsoft Excel (best)
 - Microsoft Excel for Mac OSX (requires to accept files access in order to display pictures)
 
-**You want to chat with me? Join us on our discord!**
-
-https://discord.gg/NrCSFHwXrn
-
-**Wanna promote my work? Upvote my reddit post!**
-
-- If you like my work, please join/share my discord with your friends or like/comment my reddit post!
-- Open the following link then open Useful links menu, then OPBR Database entry : https://www.reddit.com/r/OPBR/
-- Direct access to my reddit post : https://www.reddit.com/r/OPBR/comments/1664axo/opbr_excel_database_characters_medalscombo/
-
 Download stats : https://hanadigital.github.io/grev/?user=MetasharpNet&repo=OPBR-Database
