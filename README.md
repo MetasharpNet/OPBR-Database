@@ -2,7 +2,7 @@
 
 Message: help is needed to make the spanish translation and finish the english one. Contact me (Exca) on discord!
 
-Current Tiers List (2024-02-14) : https://tiermaker.com/user/16120932
+Current Tiers List (2024-02-22) : https://tiermaker.com/user/16120932
 
 ![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/0ea67270-2326-4cb8-91c3-b8f1e1cf59eb)
 
