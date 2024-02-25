@@ -4,9 +4,27 @@ Message: help is needed to make the spanish translation and finish the english o
 
 Current Tiers List (2024-02-22) : https://tiermaker.com/user/16120932
 
-![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/0ea67270-2326-4cb8-91c3-b8f1e1cf59eb)
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/e5cc77d2-2c9b-4d28-8342-3f4dff795e18)
 
-![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/07c17e33-c281-4022-b5bd-23314e7cd828)
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/d07d5ff8-89dd-4361-9322-ef39b11c7ebd)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/e14dae96-aa0e-4a6b-9dcc-463fa91b0117)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/8dd49862-ba79-4e60-a78d-34145076de64)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/8f7523bc-c9df-48d1-9eb7-9be98ab838d3)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/b7861f87-e6cc-48a8-adb1-beccbb6fda3d)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/e5d5274e-72f6-4c35-885f-148ea22ff3ea)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/a84a3350-5932-4098-a8b1-0fa9e86863d0)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/8db52a02-6f76-49b4-8eb5-5a9eabe38d36)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/d9dbdc8d-d83e-4446-b6ae-c86d3189899a)
+
+![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/4fadea33-54d5-43e9-96c6-e940a75f0c81)
 
 **One Piece Bounty Rush Excel DataBase (English)**
 
