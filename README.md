@@ -29,6 +29,7 @@ Current Tiers List (2024-02-14) : https://tiermaker.com/user/16120932
 - Onglet Translations pour saisir les traductions dans d'autres langues (anglais, espagnol, ...) ainsi que de boutons dans l'onglet Help pour appliquer la traduction
 
 **Changelog**
+- 2024-02-14 added transfer materials, rewards tallys, start of spanish translation and renamed tabs
 - 2024-02-14 added new characters, medals and updated calendar + solo
 - 2024-02-13 added new characters, medals and updated calendar
 - 2023-12-16 added new characters, medals and updated calendar
