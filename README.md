@@ -2,6 +2,9 @@
 
 Message: help is needed to make the spanish translation and finish the english one. Contact me (Metasharp) on discord!
 
+Introduction vidéo by Romanpuss : 
+![video](https://www.youtube.com/watch?v=LSuo1KxnB3M)
+
 ReadOnly version without icons/macros : https://docs.google.com/spreadsheets/d/1aT9IjGkP7kcgc-wV5o4WjxCEbuAcbZwpCGHc0YeHsOc/edit?usp=sharing
 
 Current Tiers List (2024-02-22) : https://tiermaker.com/user/16120932
