@@ -9,7 +9,7 @@ ReadOnly version without icons/macros : https://docs.google.com/spreadsheets/d/1
 
 Current Tiers List (2024-02-22) : https://tiermaker.com/user/16120932
 
-![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/806a288a-d5d0-4022-a04c-52331e3ac0cd)
+![{71864A84-7ABA-4C29-89CE-CC2798D36F24}](https://github.com/user-attachments/assets/7a8d9748-1eb4-4d7d-8b99-91b2cfbca5ad)
 
 ![image](https://github.com/MetasharpNet/OPBR-Database/assets/70144948/d07d5ff8-89dd-4361-9322-ef39b11c7ebd)
 
