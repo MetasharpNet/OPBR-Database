@@ -52,6 +52,7 @@ Current Tiers List (2024-02-22) : https://tiermaker.com/user/16120932
 - Onglet Translations pour saisir les traductions dans d'autres langues (anglais, espagnol, ...) ainsi que de boutons dans l'onglet Help pour appliquer la traduction
 
 **Changelog**
+- 2025-07-01 TEMP releases in progress: new characters, medals, etc.
 - 2024-09-06 new characters, medals, calendar content, tallys, ...
 - 2024-04-01 new characters, medals, calendar content, home screen characters, tallys, ...
 - 2024-03-05 added new characters, medals
